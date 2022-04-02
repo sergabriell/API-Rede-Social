@@ -2,7 +2,7 @@
 
 Uma API feita com PostgreSQL, JS, Express.js, Node.js com as funcionalidades:
 
-## Features
+## 📌 Features
 
 <ul>
   <li>Cadastrar Usuário</li>
